@@ -1,0 +1,106 @@
+body{
+    background-color: rgb(56, 55, 91);
+}
+.heading{
+   
+    font-size: 40px;
+  }
+  .text1{
+   
+    color: #000000;
+    font-size: 25px;
+    position: relative;
+    top: 70px;
+    left: 250px;
+    font-style: unset;
+    font-weight: bold;
+  }
+  .text2{
+    color: black;
+    font-size: 25px;
+    position: relative;
+    top: 150px;
+    left: -1.4em;
+    font-style: unset;
+    font-weight: bold;
+  }
+  .text3{
+    color: black;
+    font-size: 25px;
+    position: relative;
+    top: 230px;
+    right: 392px;
+    font-style: unset;
+    font-weight: bold;
+  }
+  .box1{
+    position: relative;
+    height: 30px;
+    width: 200px;
+    border-radius: 20px;
+    background-color: rgb(199, 198, 225);
+    font-size:25px;
+   
+  
+  }
+  .box1-name{
+    height: 30px;
+    width: 200px;
+    border-radius: 20px;
+    position: relative;
+    left: 3rem;
+    font-size:25px;
+    background-color: rgb(203, 183, 183);
+  }
+
+  .box2{
+    position:absolute;
+    height: 40px;
+    width: 10em;
+    border-radius: 20px;
+    background-color: rgb(190, 189, 205);
+    color: black;
+    font-size: 15px;
+    font-style: unset;
+    font-weight: bold;
+  
+    top: 410px;
+    left: 780px;
+    cursor: pointer;
+  }
+  .box4{
+   margin-top: 22%;
+   width: 66%;
+   margin-left: 18%;
+   margin-right: 18%;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-evenly;
+   flex-wrap: wrap;
+   background-color: rgb(51, 202, 159);
+   border-radius: 18px;
+  }
+  .text4{
+    height: 70px;
+    align-items: center;
+   line-height: 40px;
+   width:390px;
+   text-align: center;
+   border: 1px solid black;
+   background-color: rgb(123, 122, 143);
+   border-radius: 30px 0 30px 0;
+   }
+ hr{
+    position: relative;
+    top: 20em;
+    
+ }
+ label{
+    display: inline-block;
+    text-align: right;
+ }
+
+ input{
+    position: relative;
+    left: 7rem;
+ }
